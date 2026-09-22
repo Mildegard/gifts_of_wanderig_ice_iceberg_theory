@@ -39,3 +39,6 @@ If you see your observation generalised here in a way you object to, that is a l
 ## How to check the layer yourself
 
 The threads are public and the comic is free. Read the pages, then read the comments underneath, and ask the same single question: **what did this person notice that I did not?** That question is the whole method. It does not need my dataset.
+
+
+**Update 2026-09-23:** the author confirms the reader layer is not merely reactive — reader input flows upstream into canon (a reader suggested the warlord Nero's name; reader-suggested situations became extra sketches; reader questions produced clarification pages in the comic proper). Details and structural reading: `analysis/the_inlet.md`. This strengthens the case for eventually verifying the comment layer despite the cost: it is the inlet, not just a vantage point.
